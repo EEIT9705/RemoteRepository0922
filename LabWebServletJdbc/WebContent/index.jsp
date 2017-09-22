@@ -5,6 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 <title>Home for Git Learning</title>
 </head>
 <body>
@@ -16,6 +17,19 @@
 <h3>GOGOGO!!!</h3>
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+
+
+<title>Home</title>
+</head>
+<body>
+
+<h3>Welcome ${user.custid}</h3>
+<p>Hello world!</p>
+<p>Please select:</p>
+<h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+<p>Fineka必勝!!!!</p>
+<h1>不准你亂寫!!!!</h1>
 
 </body>
 </html>
