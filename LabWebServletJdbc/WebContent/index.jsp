@@ -12,6 +12,8 @@
 <h3>Welcome ${user.custid}</h3>
 <h5>這是我用來學習Git的網頁</h5>
 
+
+<h3>GOGOGO!!!</h3>
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 
