@@ -10,6 +10,7 @@
 <body>
 <h1>王者歸來</h1>
 <h2>歸來王者</h2>
+<h3>王歸來者</h3>
 <h3>Welcome ${user.custid}</h3>
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
