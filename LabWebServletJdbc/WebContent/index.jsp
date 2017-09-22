@@ -11,7 +11,7 @@
 <body>
 
 <h3>Welcome ${user.custid}</h3>
-<h5>這是我用來學習Git的網頁</h5>
+<h5>這是我用來學習Git的網頁 </h5>
 
 
 <h3>GOGOGO!!!</h3>
